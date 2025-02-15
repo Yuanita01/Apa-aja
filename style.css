@@ -1,0 +1,42 @@
+body {
+    background-color: bisque;
+}
+
+h1{
+    color: rgb(177, 113, 113);
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+.nav ul {
+    display: flex;
+}
+.nav ul li{
+    padding: 10px;
+    list-style: none;
+}
+.nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+h2 {
+    color: rgb(124, 72, 72);
+}
+h4 {
+    color: rgb(85, 55, 55);
+}
+button {
+    padding: 5px;
+    width: 90px;
+    border: none;
+    background-color: rgb(85, 61, 61);
+    color: rgb(230, 215, 193);
+}
+h3 {
+    color: rgb(102, 70, 70);
+    text-decoration: overline;
+}
+h5 {
+    color: black;
+}
